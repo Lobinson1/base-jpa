@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lobinson1.basejpa.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lobinson1.basejpa.MyBundle
 
 class MyApplicationService {
 
